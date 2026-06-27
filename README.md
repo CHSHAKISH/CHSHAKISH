@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🌟 About Me
-- 🎓 B.Tech CSE Student  
+- 🎓 B.Tech Information Technology Student  
 - 💡 Passionate about building **real-world impactful applications**  
 - 🚀 Currently working on **EduConnect & Smart Productivity Apps**  
 - 🏆 Ideathon Winner | Hackathon Enthusiast  
@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_CHSHAKISH&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_CHSHAKISH&theme=tokyonight" />
 </p>
 
 ---
@@ -99,5 +99,5 @@ Here are some ideas to get you started:
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [CH Shakish](https://github.com/CHSHAKISH)
 
