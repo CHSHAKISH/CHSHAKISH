@@ -305,7 +305,7 @@ Every project is an opportunity to learn, improve, and build software that deliv
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
 
 > *A selection of products I've built to solve real-world problems through software engineering.*
 
@@ -313,11 +313,13 @@ Every project is an opportunity to learn, improve, and build software that deliv
 
 ## 🏆 [EasyERP](https://github.com/TLE-Smashers/EasyERP-SIH)
 
-Modern ERP platform that automates institutional administration with intelligent workflows, geo-fenced attendance, multilingual support, and role-based access control.
+Cloud-native ERP platform for educational institutions featuring geo-fenced attendance, multilingual support, role-based access control, and workflow automation.
+
+
 
 🏆 **Smart India Hackathon 2025 Winner**
 
-**🛠 Tech Stack**
+**⚙ Built With**
 
 `Next.js` • `Google Apps Script` • `Firebase`
 
@@ -335,11 +337,11 @@ Modern ERP platform that automates institutional administration with intelligent
 
 ## 🥈 [Odoo Cafe POS](https://github.com/Shreyansh-32/OdooxPHCafe-pos)
 
-Complete Cafe POS ecosystem featuring QR Ordering, Kitchen Display System (KDS), Cashier Dashboard, and Real-Time Order Management.
+End-to-end Cafe POS ecosystem featuring QR Ordering, Kitchen Display System (KDS), Cashier Dashboard, and real-time order management.
 
 🥈 **National First Runner-Up — Odoo × Parul University Hackathon 2026**
 
-**🛠 Tech Stack**
+**⚙ Built With**
 
 `Odoo` • `Python` • `JavaScript` • `PostgreSQL`
 
@@ -357,11 +359,11 @@ Complete Cafe POS ecosystem featuring QR Ordering, Kitchen Display System (KDS),
 
 ## 💼 [AssetMate](https://github.com/CHSHAKISH/AssetMate)
 
-Inventory and asset management platform built to streamline asset tracking, inventory monitoring, and organizational resource management.
+Inventory and asset management platform designed to streamline asset tracking, inventory monitoring, and resource management.
 
 💼 **Successfully delivered as a Freelance Client Project**
 
-**🛠 Tech Stack**
+**⚙ Built With**
 
 `React.js` • `Firebase` • `Tailwind CSS`
 
@@ -379,11 +381,11 @@ Inventory and asset management platform built to streamline asset tracking, inve
 
 ## 🏫 [Shiksha Sanchalan](https://github.com/CHSHAKISH/Shiksha-Sanchalan)
 
-Examination management platform automating seating arrangements, invigilation scheduling, faculty allocation, and timetable generation.
+Examination management platform automating seat allocation, invigilation scheduling, faculty allocation, and timetable generation.
 
-🏫 **Currently deployed for pilot testing within my college**
+🏫 **Successfully deployed for pilot testing at Government Engineering College Bilaspur.**
 
-**🛠 Tech Stack**
+**⚙ Built With**
 
 `Flutter` • `Firebase`
 
@@ -397,7 +399,7 @@ Examination management platform automating seating arrangements, invigilation sc
 
 <div align="center">
 
-### ⭐ Explore more projects in my pinned repositories below.
+### ⭐ More projects are available in my pinned repositories and GitHub portfolio.
 
 </div>
 
