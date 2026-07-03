@@ -15,22 +15,28 @@ Hi 👋 I'm <b>CH SHAKISH</b>
 </h1>
 
 <h3 align="center">
-Building software that creates real-world impact.
+Software Engineer • Full Stack • Flutter
 </h3>
 
-<!-- <br> -->
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=🏆+2×+National+Hackathon+Medalist;💻+Full+Stack+%26+Flutter+Developer;🚀+Building+Software+for+Real-World+Impact;🌱+Always+Learning+•+Always+Building"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=%F0%9F%8F%86+Smart+India+Hackathon+2025+Winner;%F0%9F%A5%88+Odoo+x+Parul+University+2026+First+Runner-Up;%F0%9F%92%BB+Full+Stack+%26+Flutter+Developer;%F0%9F%9A%80+Building+Software+for+Real-World+Impact;%F0%9F%8C%B1+Always+Learning+%E2%80%A2+Always+Building"
+alt="Typing SVG"/>
 
 </div>
 
-<!-- <br> -->
+<br>
 
 <p align="center">
 
-Software Engineer passionate about building impactful products through <b>Full Stack Development</b>, <b>Flutter</b>, and <b>scalable system design</b>. I enjoy transforming ideas into software that solves real-world problems.
+Passionate about building impactful software through
+<b>Full Stack Development</b>,
+<b>Flutter</b>, and
+<b>Scalable System Design</b>.
+I enjoy transforming ideas into products that solve real-world problems.
 
 </p>
 
@@ -39,6 +45,7 @@ Software Engineer passionate about building impactful products through <b>Full S
 📍 <b>Open to Software Engineering • Full Stack • Flutter Opportunities</b>
 
 </p>
+
 <br>
 
 <div align="center">
@@ -50,52 +57,78 @@ Software Engineer passionate about building impactful products through <b>Full S
 <a href="#-tech-arsenal">🛠 Tech Stack</a> •
 <a href="#-featured-work">💼 Projects</a> •
 <a href="#-contribution-activity">📈 Contributions</a> •
+<a href="#-engineering-philosophy">💭 Philosophy</a> •
 <a href="#-lets-connect">🤝 Contact</a>
 
 </div>
 
 <br>
-<h2 align="center">🤝 Let's Connect</h2>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<table>
 <tr>
-<p align="center">
-<td>
+
+<td align="center">
 <a href="https://github.com/CHSHAKISH">
 <img src="assets/icons/github.png" width="58"/>
 </a>
 </td>
-<td>
+
+<!-- <td width="18"></td> -->
+
+<td align="center">
 <a href="https://www.linkedin.com/in/ch-shakish-14bb45254/">
 <img src="assets/icons/linkedin.png" width="58"/>
 </a>
 </td>
-<td>
-<a href="YOUR_PORTFOLIO">
+
+<!-- <td width="18"></td> -->
+
+<td align="center">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="assets/icons/portfolio.png" width="58"/>
 </a>
 </td>
-<td>
+
+<!-- <td width="18"></td> -->
+
+<td align="center">
 <a href="https://x.com/shakish15564">
 <img src="assets/icons/x.png" width="58"/>
 </a>
 </td>
-<td>
+
+<!-- <td width="18"></td> -->
+
+<td align="center">
 <a href="https://leetcode.com/u/CH_Shakish__13/">
 <img src="assets/icons/leetcode.png" width="58"/>
 </a>
 </td>
-<td>
+
+<!-- <td width="18"></td> -->
+
+<td align="center">
 <a href="https://www.geeksforgeeks.org/profile/chshakis82yg">
 <img src="assets/icons/gfg.png" width="58"/>
 </a>
 </td>
-<td>
+
+<!-- <td width="18"></td> -->
+
+<td align="center">
 <a href="mailto:ch.shakish11123@gmail.com">
 <img src="assets/icons/mail.png" width="58"/>
 </a>
 </td>
-</p>
+
 </tr>
+</table>
+
+</div>
 
 <br>
 
@@ -107,6 +140,7 @@ Software Engineer passionate about building impactful products through <b>Full S
 
 <br>
 
+<br>
 <!-- ========================================================= -->
 <!--               ACHIEVEMENTS & RECOGNITION                  -->
 <!-- ========================================================= -->
