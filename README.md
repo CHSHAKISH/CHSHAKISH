@@ -113,16 +113,16 @@ I enjoy transforming ideas into products that solve real-world problems.
 
 ## 🏆 National Hackathon Achievements
 
-### 🥇 Smart India Hackathon 2025
-**National Winner**
+### 🥇 Smart India Hackathon 2025 (Winner)
+**National Winner • India's Largest Innovation Competition**
 
 🚀 **[EasyERP](https://github.com/TLE-Smashers/EasyERP-SIH)**
 
 Built EasyERP, a modern ERP platform that streamlines educational administration through **Geo-Fenced Attendance, Role-Based Access Control, Multilingual Support, and Intelligent Workflow Automation.**
 
 
-### 🥈 Odoo x Parul University Hackathon 2026
-**National First Runner-Up**
+### 🥈 Odoo x Parul University Hackathon 2026 (First Runner-Up)
+**National First Runner-Up • 100+ Teams**
 
 🚀 **[Odoo Cafe POS](https://github.com/Shreyansh-32/OdooxPHCafe-pos)**
 
@@ -138,7 +138,7 @@ Built a complete Cafe POS ecosystem featuring **QR Ordering, Kitchen Display Sys
 | 🚀 **Google Developer Student Clubs (2023-2025)** | **Core Team → Technical Co-Lead → Co-Lead** • Organized workshops, coding competitions, technical events and mentored aspiring developers. |
 | 🏆 **Technova Ideathon 2024** | Winner • LCIT Bilaspur |
 | 🥈 **IEEE ICECCT 2024** | Runner-Up • **Nijaat Healthcare Solution** • **Secured ₹2 Lakh Development Grant** |
-| 🏅 **AIR 483 (2024)** | • All India Rank in Tricolor CodeFest |
+| 🏅 **AIR 483 (2024)** | AIR 483 among thousands of participants in Tricolor CodeFest. |
 
 ---
 <br>
@@ -151,7 +151,7 @@ Built a complete Cafe POS ecosystem featuring **QR Ordering, Kitchen Display Sys
 
 ✔ Active Competitive Programmer
 
-✔ Regular Practice on LeetCode, GeeksforGeeks & Code360
+✔ Regular Practice across LeetCode, GeeksforGeeks & Coding Ninjas
 
 <br>
 
