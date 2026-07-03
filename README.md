@@ -184,7 +184,7 @@ Every project is an opportunity to learn, improve, and build software that deliv
 |:---|:--------|
 | 🏆 **Achievements** | 1× National Winner • 1× National First Runner-Up |
 | 🚀 **Leadership** | Core Team → Technical Co-Lead → Co-Lead, Google Developer Student Clubs |
-| 🎓 **Education** | B.Tech Information Technology |
+| 🎓 **Education** | B.Tech Information Technology (GECB)|
 | 💼 **Specialization** | Full Stack Engineering • Flutter Development • Backend Systems |
 | 🧠 **Currently Exploring** | System Design • Cloud Architecture • Distributed Systems |
 | 🌍 **Open To** | Software Engineering • Full Stack • Flutter • Backend Roles |
@@ -224,7 +224,7 @@ Every project is an opportunity to learn, improve, and build software that deliv
 
 ### 🎨 Frontend & Mobile
 
-*Crafting responsive web applications and cross-platform mobile experiences.*
+*Building responsive web applications and high-performance cross-platform mobile experiences.*
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,flutter,androidstudio"/>
@@ -234,19 +234,20 @@ Every project is an opportunity to learn, improve, and build software that deliv
 
 ### ⚙️ Backend & APIs
 
-*Building scalable backend systems, authentication, and RESTful APIs.*
+*Designing scalable backend services, authentication systems, and RESTful APIs.*
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 </p>
 
-`REST API` • `JWT Authentication`
+`REST API` • `JWT` • `Firebase Authentication`
+
 
 ---
 
 ### ☁️ Databases & Cloud
 
-*Managing data, cloud infrastructure, deployment, and DevOps workflows.*
+*Working with databases, cloud services, containerization, deployment, and DevOps workflows.*
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,docker,aws,vercel,netlify,githubactions"/>
@@ -256,19 +257,20 @@ Every project is an opportunity to learn, improve, and build software that deliv
 
 ### 🎯 UI / UX Design
 
-*Designing intuitive user experiences before writing production code.*
+*Designing intuitive user experiences through wireframes, prototypes, and modern design systems.*
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
-`UI Design` • `UX Design` • `Wireframing` • `Prototyping` • `Design Systems`
+`UI Design` • `UX Design` • `Wireframing` • `Prototyping` • `Design Systems` • `Responsive Design`
+
 
 ---
 
 ### 🔧 Development Tools
 
-*Tools that streamline development, collaboration, testing, and deployment.*
+*Tools that power efficient development, collaboration, version control, API testing, and deployment.*
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
@@ -288,9 +290,9 @@ Every project is an opportunity to learn, improve, and build software that deliv
 
 ✔ Computer Networks
 
-✔ Low-Level Design (LLD)
+✔ Low-Level System Design (LLD)
 
-✔ High-Level Design (HLD)
+✔ High-Level System Design (HLD)
 
 
 <br>
