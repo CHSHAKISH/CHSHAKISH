@@ -166,13 +166,13 @@ Built a complete Cafe POS ecosystem featuring **QR Ordering, Kitchen Display Sys
 
 > *The mindset that drives the way I build software.*
 
-Software engineering, for me, is more than writing code—it's about understanding problems, collaborating with people, and building technology that creates meaningful impact.
+Software engineering, for me, is more than writing code—it's about solving meaningful problems, collaborating with people, and building technology that creates lasting impact.
 
-Over the years, I've built production-ready applications, led developer communities, competed in national hackathons, and continuously challenged myself through competitive programming.
+My journey has been shaped by building production-ready applications, leading developer communities, competing in national hackathons, and continuously improving through competitive programming.
 
 > **"Great software isn't measured by the technologies it uses, but by the value it creates for people."**
 
-Every project I build is another opportunity to learn, improve, and create technology that solves real-world problems.
+Every project is an opportunity to learn, improve, and build software that delivers real-world value.
 
 <br>
 
@@ -182,10 +182,11 @@ Every project I build is another opportunity to learn, improve, and create techn
 
 | 🏷️ Labels | Details |
 |:---|:--------|
-| 🏆 **Achievements** | 2× National Hackathon Medalist |
-| 🚀 **Leadership** | Core Team → Co-Lead → Technical Co-Lead, Google Developer Student Clubs |
-| 💼 **Specialization** | Full Stack Development • Flutter • Backend Engineering |
-| 🧠 **Currently Exploring** | System Design • Cloud Architecture • Scalable Backend Systems |
+| 🏆 **Achievements** | 1× National Winner • 1× National First Runner-Up |
+| 🚀 **Leadership** | Core Team → Technical Co-Lead → Co-Lead, Google Developer Student Clubs |
+| 🎓 **Education** | B.Tech Information Technology |
+| 💼 **Specialization** | Full Stack Engineering • Flutter Development • Backend Systems |
+| 🧠 **Currently Exploring** | System Design • Cloud Architecture • Distributed Systems |
 | 🌍 **Open To** | Software Engineering • Full Stack • Flutter • Backend Roles |
 | 📍 **Based In** | Chhattisgarh, India |
 
@@ -193,7 +194,7 @@ Every project I build is another opportunity to learn, improve, and create techn
 
 <div align="center">
 
-### *"Engineering impactful software, one project at a time."* 🚀
+### "Engineering software that creates real-world impact, one project at a time." 🚀
 
 </div>
 
