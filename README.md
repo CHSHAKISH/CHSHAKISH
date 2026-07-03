@@ -426,7 +426,7 @@ Examination management platform automating seat allocation, invigilation schedul
 <div align="center">
 <br>
 
-💙 **Every commit is another step towards learning, improving, and building impactful software.**
+💙 **Every commit reflects continuous learning, consistency, and craftsmanship.**
 
 </div>
 
@@ -475,8 +475,7 @@ src="https://raw.githubusercontent.com/CHSHAKISH/CHSHAKISH/output/github-contrib
 
 I enjoy building software that is **useful**, **scalable**, and **intuitive**—whether it's a national hackathon project, a production-ready application, or an open-source contribution.
 
-Every project is an opportunity to learn, improve, and create technology that leaves a measurable real-world impact.
-
+Every project is an opportunity to learn, improve, and build software that creates measurable real-world impact.
 
 <br>
 
@@ -487,32 +486,19 @@ Every project is an opportunity to learn, improve, and create technology that le
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-I'm always excited to collaborate on impactful software, open-source projects,
-and innovative ideas.
+I'm always open to collaborating on impactful software, open-source contributions, hackathons, and innovative ideas.
 
-<table>
-<tr>
-<td>
-<a href="https://www.linkedin.com/in/ch-shakish-14bb45254/">
-<img src="assets/icons/linkedin.png" width="60"/>
-</a>
-</td>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ch-shakish-14bb45254/"><img src="./assets/icons/linkedin.png" width="68"></a>
 &nbsp;&nbsp;
-<td>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="assets/icons/portfolio.png" width="60"/>
-</a>
-</td>
+<a href="YOUR_PORTFOLIO_URL"><img src="./assets/icons/portfolio.png" width="68"></a>
 &nbsp;&nbsp;
-<td>
-<a href="mailto:ch.shakish11123@gmail.com">
-<img src="assets/icons/mail.png" width="60"/>
-</a>
-</td>
-</tr>
-</table>
+<a href="mailto:ch.shakish11123@gmail.com"><img src="./assets/icons/mail.png" width="68"></a>
+
+</div>
 <br>
 
 ### 🚀 Let's build technology that creates real-world impact together.
