@@ -1,103 +1,525 @@
+<!-- ========================================================= -->
+<!--                          HERO                             -->
+<!-- ========================================================= -->
 
-<!--
-**CHSHAKISH/CHSHAKISH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./assets/banner.png" alt="CH SHAKISH Banner" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<h1 align="center">Hi 👋, I'm Shakish</h1>
-<h3 align="center">🚀 Full Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
+<br>
 
----
+<h1 align="center">
+Hi 👋 I'm <b>CH SHAKISH</b>
+</h1>
 
-## 🌟 About Me
-- 🎓 B.Tech Information Technology Student  
-- 💡 Passionate about building **real-world impactful applications**  
-- 🚀 Currently working on **EduConnect & Smart Productivity Apps**  
-- 🏆 Ideathon Winner | Hackathon Enthusiast  
-- 🧠 Exploring **AI, Full Stack Development & System Design**
+<h3 align="center">
+Building software that creates real-world impact.
+</h3>
 
----
+<!-- <br> -->
 
-## 🔥 What I’m Building
-- 📱 **EduConnect** – Smart education platform for schools & colleges  
-- 🚆 **Map My Train** – Railway navigation & tracking system  
-- 💊 **Nijaat App** – Healthcare & rehabilitation support system  
-- 🧳 **TourMate** – Budget-based travel planner  
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=🏆+2×+National+Hackathon+Medalist;💻+Full+Stack+%26+Flutter+Developer;🚀+Building+Software+for+Real-World+Impact;🌱+Always+Learning+•+Always+Building"/>
 
-## 🛠️ Tech Stack
+</div>
 
-### 💻 Languages
-`JavaScript` `Dart` `Java` `C++`
-
-### 🌐 Frontend
-`React.js` `HTML` `CSS` `Tailwind CSS` `Figma`
-
-### ⚙️ Backend
-`Node.js` `Express.js` `Firebase`
-
-### 🗄️ Database
-`MongoDB` `Firebase Firestore`
-
-### 📱 Mobile Dev
-`Flutter`
-
----
-
-## 🚀 Projects Highlights
-
-### 📌 EduConnect
-- Complete educational ecosystem  
-- Assignments, Attendance, Notifications  
-- Firebase-powered backend  
-
-### 📌 Asset Mate
-- Full-fledged Asset Management System  
-- CRM, Sales, Stocks & Accounts modules  
-
-### 📌 Shiksha Sanchalan
-- Smart exam seating & invigilation system  
-- Automated timetable generation  
-
----
-
-## 📊 GitHub Stats
+<!-- <br> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_CHSHAKISH&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_CHSHAKISH&theme=tokyonight" />
+
+Software Engineer passionate about building impactful products through <b>Full Stack Development</b>, <b>Flutter</b>, and <b>scalable system design</b>. I enjoy transforming ideas into software that solves real-world problems.
+
+</p>
+
+<p align="center">
+
+📍 <b>Open to Software Engineering • Full Stack • Flutter Opportunities</b>
+
+</p>
+<br>
+
+<div align="center">
+
+### ⚡ Quick Navigation
+
+<a href="#-achievements--recognition">🏆 Achievements</a> •
+<a href="#-engineering-mindset">🚀 Mindset</a> •
+<a href="#-tech-arsenal">🛠 Tech Stack</a> •
+<a href="#-featured-work">💼 Projects</a> •
+<a href="#-contribution-activity">📈 Contributions</a> •
+<a href="#-lets-connect">🤝 Contact</a>
+
+</div>
+
+<br>
+<h2 align="center">🤝 Let's Connect</h2>
+
+<tr>
+<p align="center">
+<td>
+<a href="https://github.com/CHSHAKISH">
+<img src="assets/icons/github.png" width="58"/>
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/ch-shakish-14bb45254/">
+<img src="assets/icons/linkedin.png" width="58"/>
+</a>
+</td>
+<td>
+<a href="YOUR_PORTFOLIO">
+<img src="assets/icons/portfolio.png" width="58"/>
+</a>
+</td>
+<td>
+<a href="https://x.com/shakish15564">
+<img src="assets/icons/x.png" width="58"/>
+</a>
+</td>
+<td>
+<a href="https://leetcode.com/u/CH_Shakish__13/">
+<img src="assets/icons/leetcode.png" width="58"/>
+</a>
+</td>
+<td>
+<a href="https://www.geeksforgeeks.org/profile/chshakis82yg">
+<img src="assets/icons/gfg.png" width="58"/>
+</a>
+</td>
+<td>
+<a href="mailto:ch.shakish11123@gmail.com">
+<img src="assets/icons/mail.png" width="58"/>
+</a>
+</td>
+</p>
+</tr>
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=CHSHAKISH&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--               ACHIEVEMENTS & RECOGNITION                  -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 🏆 Achievements & Recognition
+
+> *A journey of building impactful products, leading communities, and competing at the national level.*
+
+<br>
+
+## 🏆 National Hackathon Achievements
+
+### 🥇 Smart India Hackathon 2025
+**National Winner**
+
+🚀 **[EasyERP](https://github.com/TLE-Smashers/EasyERP-SIH)**
+
+Built EasyERP, a modern ERP platform that streamlines educational administration through **Geo-Fenced Attendance, Role-Based Access Control, Multilingual Support, and Intelligent Workflow Automation.**
+
+
+### 🥈 Odoo x Parul University Hackathon 2026
+**National First Runner-Up**
+
+🚀 **[Odoo Cafe POS](https://github.com/Shreyansh-32/OdooxPHCafe-pos)**
+
+Built a complete Cafe POS ecosystem featuring **QR Ordering, Kitchen Display System (KDS), Cashier Dashboard, and Real-Time Order Management.**
+
+---
+<br>
+
+## 🌟 Leadership & Recognition
+
+| Recognition | Highlights |
+|-------------|-------------|
+| 🚀 **Google Developer Student Clubs (2023-2025)** | **Core Team → Technical Co-Lead → Co-Lead** • Organized workshops, coding competitions, technical events and mentored aspiring developers. |
+| 🏆 **Technova Ideathon 2024** | Winner • LCIT Bilaspur |
+| 🥈 **IEEE ICECCT 2024** | Runner-Up • **Nijaat Healthcare Solution** • **Secured ₹2 Lakh Development Grant** |
+| 🏅 **AIR 483 (2024)** | • All India Rank in Tricolor CodeFest |
+
+---
+<br>
+
+## 💻 Competitive Programming
+
+✔ 600+ DSA Problems Solved
+
+✔ Strong Foundation in Data Structures & Algorithms
+
+✔ Active Competitive Programmer
+
+✔ Regular Practice on LeetCode, GeeksforGeeks & Code360
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                ENGINEERING MINDSET                        -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 🚀 Engineering Mindset
+
+> *The mindset that drives the way I build software.*
+
+Software engineering, for me, is more than writing code—it's about understanding problems, collaborating with people, and building technology that creates meaningful impact.
+
+Over the years, I've built production-ready applications, led developer communities, competed in national hackathons, and continuously challenged myself through competitive programming.
+
+> **"Great software isn't measured by the technologies it uses, but by the value it creates for people."**
+
+Every project I build is another opportunity to learn, improve, and create technology that solves real-world problems.
+
+<br>
+
+# ⚡ Professional Snapshot
+
+> *Quick facts about my engineering journey.*
+
+| 🏷️ Labels | Details |
+|:---|:--------|
+| 🏆 **Achievements** | 2× National Hackathon Medalist |
+| 🚀 **Leadership** | Core Team → Co-Lead → Technical Co-Lead, Google Developer Student Clubs |
+| 💼 **Specialization** | Full Stack Development • Flutter • Backend Engineering |
+| 🧠 **Currently Exploring** | System Design • Cloud Architecture • Scalable Backend Systems |
+| 🌍 **Open To** | Software Engineering • Full Stack • Flutter • Backend Roles |
+| 📍 **Based In** | Chhattisgarh, India |
+
+---
+
+<div align="center">
+
+### *"Engineering impactful software, one project at a time."* 🚀
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                 TECH ARSENAL                              -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 🛠 Tech Arsenal
+
+> *Technologies I use to design, build, and deploy production-ready software.*
+
+---
+
+### 💻 Programming Languages
+
+*Primary languages for software engineering, competitive programming, and application development.*
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,dart"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🎨 Frontend & Mobile
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+*Crafting responsive web applications and cross-platform mobile experiences.*
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui,flutter,androidstudio"/>
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+
+*Building scalable backend systems, authentication, and RESTful APIs.*
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+</p>
+
+`REST API` • `JWT Authentication`
+
+---
+
+### ☁️ Databases & Cloud
+
+*Managing data, cloud infrastructure, deployment, and DevOps workflows.*
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,docker,aws,vercel,netlify,githubactions"/>
+</p>
+
+---
+
+### 🎯 UI / UX Design
+
+*Designing intuitive user experiences before writing production code.*
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+`UI Design` • `UX Design` • `Wireframing` • `Prototyping` • `Design Systems`
+
+---
+
+### 🔧 Development Tools
+
+*Tools that streamline development, collaboration, testing, and deployment.*
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
+</p>
+
+---
+
+### 🧠 Computer Science Fundamentals
+
+✔ Data Structures & Algorithms
+
+✔ Object-Oriented Programming
+
+✔ Database Management Systems
+
+✔ Operating Systems
+
+✔ Computer Networks
+
+✔ Low-Level Design (LLD)
+
+✔ High-Level Design (HLD)
+
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                   FEATURED WORK                           -->
+<!-- ========================================================= -->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 🚀 Featured Work
+
+> *A selection of products I've built to solve real-world problems through software engineering.*
+
+---
+
+## 🏆 [EasyERP](https://github.com/TLE-Smashers/EasyERP-SIH)
+
+Modern ERP platform that automates institutional administration with intelligent workflows, geo-fenced attendance, multilingual support, and role-based access control.
+
+🏆 **Smart India Hackathon 2025 Winner**
+
+**🛠 Tech Stack**
+
+`Next.js` • `Google Apps Script` • `Firebase`
+
+<p>
+<a href="https://github.com/TLE-Smashers/EasyERP-SIH">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
+
+<a href="https://easy-erp-tle-smashers.kanhaiyalalsahu.me/">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 💡 Quote I Believe In
-> "Build things that actually matter."
+## 🥈 [Odoo Cafe POS](https://github.com/Shreyansh-32/OdooxPHCafe-pos)
+
+Complete Cafe POS ecosystem featuring QR Ordering, Kitchen Display System (KDS), Cashier Dashboard, and Real-Time Order Management.
+
+🥈 **National First Runner-Up — Odoo × Parul University Hackathon 2026**
+
+**🛠 Tech Stack**
+
+`Odoo` • `Python` • `JavaScript` • `PostgreSQL`
+
+<p>
+<a href="https://github.com/Shreyansh-32/OdooxPHCafe-pos">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://odoocafe-pos.onrender.com">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ From [CH Shakish](https://github.com/CHSHAKISH)
+## 💼 [AssetMate](https://github.com/CHSHAKISH/AssetMate)
 
+Inventory and asset management platform built to streamline asset tracking, inventory monitoring, and organizational resource management.
+
+💼 **Successfully delivered as a Freelance Client Project**
+
+**🛠 Tech Stack**
+
+`React.js` • `Firebase` • `Tailwind CSS`
+
+<p>
+<a href="https://github.com/CHSHAKISH/AssetMate">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://assetmate-kanhaiya01.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🏫 [Shiksha Sanchalan](https://github.com/CHSHAKISH/Shiksha-Sanchalan)
+
+Examination management platform automating seating arrangements, invigilation scheduling, faculty allocation, and timetable generation.
+
+🏫 **Currently deployed for pilot testing within my college**
+
+**🛠 Tech Stack**
+
+`Flutter` • `Firebase`
+
+<p>
+<a href="https://github.com/CHSHAKISH/Shiksha-Sanchalan">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Explore more projects in my pinned repositories below.
+
+</div>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--               CONTRIBUTION ACTIVITY                       -->
+<!-- ========================================================= -->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 📈 Contribution Activity
+
+> *Consistency is built one commit at a time.*
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHSHAKISH&theme=github-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=3B82F6&point=60A5FA"/>
+
+</div>
+
+<div align="center">
+<br>
+
+💙 **Every commit is another step towards learning, improving, and building impactful software.**
+
+</div>
+
+
+<br>
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION SNAKE                    -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<i>Every contribution adds another step to the journey.</i>
+
+<br><br>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/CHSHAKISH/CHSHAKISH/output/github-contribution-grid-snake-dark.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/CHSHAKISH/CHSHAKISH/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
+
+</div>
+<br>
+<!-- ========================================================= -->
+<!--                ENGINEERING PHILOSOPHY                     -->
+<!-- ========================================================= -->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 💭 Engineering Philosophy
+
+> *The principles that shape the way I build software.*
+
+> **"Technology is most valuable when it solves meaningful problems for real people."**
+
+I enjoy building software that is **useful**, **scalable**, and **intuitive**—whether it's a national hackathon project, a production-ready application, or an open-source contribution.
+
+Every project is an opportunity to learn, improve, and create technology that leaves a measurable real-world impact.
+
+
+<br>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2"/>
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+I'm always excited to collaborate on impactful software, open-source projects,
+and innovative ideas.
+
+<table>
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/ch-shakish-14bb45254/">
+<img src="assets/icons/linkedin.png" width="60"/>
+</a>
+</td>
+&nbsp;&nbsp;
+<td>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="assets/icons/portfolio.png" width="60"/>
+</a>
+</td>
+&nbsp;&nbsp;
+<td>
+<a href="mailto:ch.shakish11123@gmail.com">
+<img src="assets/icons/mail.png" width="60"/>
+</a>
+</td>
+</tr>
+</table>
+<br>
+
+### 🚀 Let's build technology that creates real-world impact together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer"/>
+
+</div>
