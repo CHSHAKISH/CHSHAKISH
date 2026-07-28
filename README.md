@@ -78,7 +78,7 @@ I enjoy transforming ideas into products that solve real-world problems.
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ch-shakish-14bb45254/"><img src="./assets/icons/linkedin.png" width="68"></a>
 &nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL"><img src="./assets/icons/portfolio.png" width="68"></a>
+<a href="https://www.chshakish.me/"><img src="./assets/icons/portfolio.png" width="68"></a>
 &nbsp;&nbsp;
 <a href="https://x.com/shakish15564"><img src="./assets/icons/x.png" width="68"></a>
 &nbsp;&nbsp;
